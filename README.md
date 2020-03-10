@@ -1,6 +1,6 @@
 # rnsavinelli's build of st
 
-The [Simple Terminal (st)](https://st.suckless.org/) with my personal configuration, patches and modifications.
+This fork of [Simple Terminal (st)](https://st.suckless.org/) has my personal configurations, some patches and modifications.
 
 ## Patches
 
