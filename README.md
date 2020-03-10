@@ -8,11 +8,11 @@ This fork of [Simple Terminal (st)](https://st.suckless.org/) has my personal co
 + [Scrollback](https://st.suckless.org/patches/scrollback/)
 
 
-## Bindings
+## Key Bindings
 
 + **scrollback** one line at a time with `Shift+Up` and `Shift+Down`. Alternatively, since mouse scroll support is enabled, you can use `Shift+MouseWheel`.
 + **copy text** from the terminal with `Ctrl+Shift+c`, **paste** to the terminal with `Ctrl+Shift-v`.
-+ **Zoom in** with `Ctrl+Shift+Add`, **Zoom out** with `Ctrl+Shift+Subtract`. `Ctrl-Shift-Home` to go back to the default setting.
++ **Zoom in** with `Ctrl+Shift+Add`, **Zoom out** with `Ctrl+Shift+Subtract`. Use `Ctrl-Shift-Home` to go back to the default setting.
 
 ## Dependencies
 
@@ -28,4 +28,11 @@ git clone https://github.com/rnsavinelli/st
 cd st
 sudo make clean install
 ```
+
+## Original project
+st (simple terminal) original source code and information can be found here:
+
+Website: [https://st.suckless.org/](https://st.suckless.org/)
+
+Repository: [https://git.suckless.org/st/](https://git.suckless.org/st/)
 
