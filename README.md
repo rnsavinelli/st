@@ -6,13 +6,15 @@ This fork of [Simple Terminal (st)](https://st.suckless.org/) has my personal co
 
 + [Alpha](https://st.suckless.org/patches/alpha/)
 + [Scrollback](https://st.suckless.org/patches/scrollback/)
-
++ [Newterm](https://st.suckless.org/patches/newterm/)
++ [Clipboard](https://st.suckless.org/patches/clipboard/)
 
 ## Key Bindings
 
 + **scrollback** one line at a time with `Shift+Up` and `Shift+Down`. Alternatively, since mouse scroll support is enabled, you can use `Shift+MouseWheel`.
 + **copy text** from the terminal with `Ctrl+Shift+c`, **paste** to the terminal with `Ctrl+Shift-v`.
 + **Zoom in** with `Ctrl+Shift+Add`, **Zoom out** with `Ctrl+Shift+Subtract`. Use `Ctrl-Shift-Home` to go back to the default setting.
++ Open up a **new terminal window** in the same working directory with `Ctrl+Shift+Enter`.
 
 ## Dependencies
 
