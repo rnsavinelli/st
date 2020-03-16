@@ -1068,7 +1068,7 @@ newterm(const Arg* a)
 		break;
 	case 0:
 		chdir(getcwd_by_pid(pid));
-		execlp("st", "./st", NULL);
+		execlp("st", "./st", "-t", "Simple Terminal", NULL);
 		break;
 	}
 }
