@@ -1,4 +1,4 @@
-# My personal build of st - the simple terminal
+# st - the simple terminal
 
 This fork of [Simple Terminal (st)](https://st.suckless.org/) has my personal configurations, some patches and modifications.
 
