@@ -5,8 +5,8 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "monospace:pixelsize=14";
-static int borderpx = 2;
+static char *font = "SourceCodePro:pixelsize=13:antialias=true:hinting=true:hintstyle=hintfull:weight=80:";
+static int borderpx = 4;
 
 /*
  * What program is execed by st depends of these precedence rules:
